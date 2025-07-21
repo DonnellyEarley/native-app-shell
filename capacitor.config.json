@@ -1,0 +1,5 @@
+{
+  "appId": "com.example.nativeappshell",
+  "appName": "native-app-shell",
+  "webDir": "dist"
+}
