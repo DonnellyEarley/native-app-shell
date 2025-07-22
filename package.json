@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:html" : "start ./dist/index.html",
-    "start:android" : "npx cap open android"
+    "serve": "npx serve dist",
+    "serve:android": "npx cap open android"
   },
   "keywords": [],
   "author": "",

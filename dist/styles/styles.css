@@ -17,9 +17,10 @@ body {
   padding-top: env(safe-area-inset-top);
 }
 
-.dashboard-container {
-  height: 100vh;
-  overflow: hidden;
+.app-container {
+  margin-top: env(safe-area-inset-top);
+  height: calc(100vh - env(safe-area-inset-top));
+  overflow: auto;
 }
 
 .side-menu {

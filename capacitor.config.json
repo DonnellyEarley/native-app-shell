@@ -3,7 +3,7 @@
   "appName": "native-app-shell",
   "webDir": "dist",
   "android": {
-    "contentInset": "always"
+    "webContentsDebuggingEnabled": true
   },
   "ios": {
     "contentInset": "always"
