@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "start ./dist/index.html"
+    "start:html" : "start ./dist/index.html",
+    "start:android" : "npx cap open android"
   },
   "keywords": [],
   "author": "",

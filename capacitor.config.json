@@ -1,5 +1,11 @@
 {
   "appId": "com.example.nativeappshell",
   "appName": "native-app-shell",
-  "webDir": "dist"
+  "webDir": "dist",
+  "android": {
+    "contentInset": "always"
+  },
+  "ios": {
+    "contentInset": "always"
+  }
 }
